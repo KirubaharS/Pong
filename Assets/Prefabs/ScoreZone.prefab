@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5690515542509247674}
   - component: {fileID: 5981154780557111775}
-  - component: {fileID: 5900149206910296955}
+  - component: {fileID: -3421980155957683327}
   m_Layer: 0
   m_Name: ScoreZone
   m_TagString: Untagged
@@ -78,7 +78,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &5900149206910296955
+--- !u!114 &-3421980155957683327
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
